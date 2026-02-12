@@ -1,2 +1,20 @@
 # MY-IST-Project-TIC-TAC-TOE
-A simple Tic Tac Toe game built with HTML, CSS, and JavaScript. This project allows two players to play turn by turn, detects win conditions, and displays draw results. This is my first web development project.
+#  Tic Tac Toe Game
+
+This is my first web development project.
+I created a simple Tic Tac Toe game using HTML, CSS, and JavaScript.
+
+##  Features
+- Two-player game (Player X and Player O)
+- Shows winner message
+- Detects draw match
+- Restart game button
+- Simple design
+
+##  Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+##  Author
+Abdul Qadar
